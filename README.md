@@ -1,5 +1,6 @@
-# EC-601-homework1
-EC601 A1 Product Design in ECE (Fall 2017): Team five practice repository. IDEA about homework1
-#include<iostream>
-just for test
-1
+# EC-601-homework1<br>
+
+EC601 A1 Product Design in ECE (Fall 2017): Team five practice repository. <br>
+IDEA about homework1<br>
+chenrui's commit<br>
+
